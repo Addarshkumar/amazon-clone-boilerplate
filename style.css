@@ -92,7 +92,7 @@ h2{
 }
 #div1 {
     width: 350px;
-    height: 300px;
+    height: 320px;
     background-color: white;
     align-items: end;
     justify-content: space-evenly;
@@ -103,7 +103,7 @@ h2{
 
 #div2 {
     width: 350px;
-    height: 300px;
+    height: 320px;
     background-color: white;
     justify-content: space-evenly;
     align-items: end;
@@ -113,7 +113,7 @@ h2{
 
 #div3 {
     width: 350px;
-    height: 300px;
+    height: 320px;
     background-color: white;
     align-items: end;
     text-align: center;
@@ -122,7 +122,8 @@ h2{
 
 #div4 {
     width: 350px;
-    height: 300px;
+    height: 340px;
+    /* background-color: white; */
     
     
     justify-content: space-between;
@@ -140,6 +141,7 @@ h2{
     width: 100px;
     margin-left: 50px;
     margin-top: 20px;
+    
 }
 #email{
     width: 250px;
